@@ -19,14 +19,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreedeepdatta&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreedeepdatta&layout=compact&theme=tokyonight&cache_seconds=1800" height="160"/>
-</p>
-
----
-
 ### 🚀 About Me
 - Backend-focused developer who enjoys building scalable systems  
 - Interested in distributed systems, APIs, and performance optimization  
